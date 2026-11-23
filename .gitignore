@@ -1,0 +1,7 @@
+# Captures contain your hub's serial number, firmware and traffic - never commit
+captures/
+# Runtime state written by hub-up.sh
+.state
+.bootpd.plist.backup
+.DS_Store
+__pycache__/
