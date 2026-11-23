@@ -3,7 +3,7 @@
 **Get an old Sure Petcare hub back online when it refuses to connect to the internet.**
 
 If your Sure Petcare hub (for the SureFlap cat flap / pet door / feeder) is plugged into your
-router, has power, but never comes online in the app, it may be stuck on firmware that is too
+router and has power, but **keeps blinking red** and never comes online in the app, it may be stuck on firmware that is too
 old to finish a secure connection to Sure's servers. It can't update because it can't connect,
 and it can't connect because it needs the update.
 
@@ -20,8 +20,8 @@ firmware update, and then work normally on its own.
 
 Likely yes if **all** of these are true:
 
-- The hub is wired to your router with Ethernet, gets power, and its lights say it has no
-  internet / cloud connection.
+- The hub is wired to your router with Ethernet and has power, but its lights **keep blinking
+  red** and it never shows as online in the Sure Petcare app.
 - Other devices on the same router work fine.
 - The hub has been unused or offline for a long time (e.g. in a drawer, second-hand, or a
   spare unit).
